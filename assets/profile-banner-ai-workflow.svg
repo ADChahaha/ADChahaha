@@ -1,0 +1,115 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6F4EE"/>
+      <stop offset="1" stop-color="#F1EEE7"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="182" y1="86" x2="760" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#09203A"/>
+      <stop offset="1" stop-color="#153B66"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="1010" y1="120" x2="1430" y2="362" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2F6BFF"/>
+      <stop offset="1" stop-color="#5EA2FF"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#0B1320" flood-opacity="0.12"/>
+    </filter>
+    <style>
+      .brand { font: 700 20px Arial, Helvetica, sans-serif; letter-spacing: 3.2px; fill: #224E86; }
+      .headline { font: 900 108px Arial, Helvetica, sans-serif; letter-spacing: 1px; fill: url(#ink); }
+      .sub { font: 500 28px Arial, Helvetica, sans-serif; fill: #3D5877; }
+      .meta { font: 700 19px Arial, Helvetica, sans-serif; letter-spacing: 2px; fill: #234F86; }
+      .micro { font: 700 16px 'Courier New', monospace; letter-spacing: 1.8px; fill: #2C5E9B; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="500" fill="url(#bg)"/>
+  <circle cx="1292" cy="114" r="116" fill="#E8F0FF"/>
+  <circle cx="1450" cy="390" r="146" fill="#EDE6DA"/>
+  <circle cx="108" cy="414" r="92" fill="#EFE7DA"/>
+
+  <g opacity="0.28">
+    <path d="M0 86H1600" stroke="#D8D0C4"/>
+    <path d="M0 170H1600" stroke="#D8D0C4"/>
+    <path d="M0 254H1600" stroke="#D8D0C4"/>
+    <path d="M0 338H1600" stroke="#D8D0C4"/>
+    <path d="M0 422H1600" stroke="#D8D0C4"/>
+    <path d="M176 0V500" stroke="#D8D0C4"/>
+    <path d="M352 0V500" stroke="#D8D0C4"/>
+    <path d="M528 0V500" stroke="#D8D0C4"/>
+    <path d="M704 0V500" stroke="#D8D0C4"/>
+    <path d="M880 0V500" stroke="#D8D0C4"/>
+    <path d="M1056 0V500" stroke="#D8D0C4"/>
+    <path d="M1232 0V500" stroke="#D8D0C4"/>
+    <path d="M1408 0V500" stroke="#D8D0C4"/>
+  </g>
+
+  <g>
+    <rect x="84" y="68" width="12" height="12" fill="#2F6BFF"/>
+    <text x="118" y="79" class="brand">ADCHAHAHA / AI WORKFLOWS</text>
+  </g>
+
+  <text x="84" y="192" class="headline">AI</text>
+  <text x="84" y="286" class="headline">SYSTEMS</text>
+  <text x="84" y="340" class="sub">Document intelligence, LLM agents, search, and human review.</text>
+
+  <g opacity="0.9">
+    <path d="M86 388H566" stroke="#2F6BFF" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="86" cy="388" r="7" fill="#2F6BFF"/>
+    <circle cx="566" cy="388" r="7" fill="#2F6BFF"/>
+  </g>
+
+  <g>
+    <text x="84" y="434" class="meta">RAG</text>
+    <text x="168" y="434" class="meta">/</text>
+    <text x="198" y="434" class="meta">AGENTS</text>
+    <text x="338" y="434" class="meta">/</text>
+    <text x="368" y="434" class="meta">SEARCH</text>
+    <text x="518" y="434" class="meta">/</text>
+    <text x="548" y="434" class="meta">REVIEW</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <path d="M960 108L1360 164V420L960 364V108Z" fill="#0E1623"/>
+    <path d="M982 128L1336 178V392L982 342V128Z" fill="#FAFBFD"/>
+    <rect x="1032" y="176" width="188" height="18" rx="9" transform="rotate(8 1032 176)" fill="url(#accent)"/>
+    <rect x="1034" y="232" width="224" height="11" rx="5.5" transform="rotate(8 1034 232)" fill="#CCD3DD"/>
+    <rect x="1032" y="262" width="246" height="11" rx="5.5" transform="rotate(8 1032 262)" fill="#CCD3DD"/>
+    <rect x="1030" y="292" width="220" height="11" rx="5.5" transform="rotate(8 1030 292)" fill="#CCD3DD"/>
+    <rect x="1028" y="348" width="212" height="12" rx="6" transform="rotate(8 1028 348)" fill="#D5DBE5"/>
+    <rect x="1028" y="378" width="214" height="12" rx="6" transform="rotate(8 1028 378)" fill="#D5DBE5"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <circle cx="1440" cy="262" r="56" fill="#F6F4EE" stroke="#12243D" stroke-width="4"/>
+    <circle cx="1440" cy="262" r="88" stroke="#163864" stroke-width="2" stroke-dasharray="6 8"/>
+    <circle cx="1440" cy="262" r="12" fill="#2F6BFF"/>
+    <path d="M1421 259C1421 247 1431 239 1443 239C1455 239 1465 247 1465 259C1465 270 1457 278 1449 281C1444 283 1440 289 1440 296" stroke="#12243D" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M1431 294C1434 289 1439 286 1444 286" stroke="#12243D" stroke-width="4.5" stroke-linecap="round"/>
+  </g>
+
+  <g>
+    <circle cx="1348" cy="220" r="10" fill="#2F6BFF"/>
+    <circle cx="1340" cy="326" r="10" fill="#2F6BFF"/>
+    <circle cx="1266" cy="278" r="10" fill="#2F6BFF"/>
+    <path d="M1280 278H1372" stroke="#173761" stroke-width="3"/>
+    <path d="M1356 228L1394 246" stroke="#173761" stroke-width="3"/>
+    <path d="M1348 320L1390 284" stroke="#173761" stroke-width="3"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <path d="M866 330L944 286V416L866 460V330Z" fill="#2F6BFF"/>
+    <path d="M868 332L940 292V410L868 450V332Z" fill="#F7F9FD"/>
+    <rect x="886" y="352" width="34" height="8" rx="4" fill="#2F6BFF"/>
+    <rect x="886" y="372" width="42" height="8" rx="4" fill="#CDD5E0"/>
+    <rect x="886" y="392" width="34" height="8" rx="4" fill="#CDD5E0"/>
+  </g>
+
+  <g opacity="0.94">
+    <path d="M804 82H892" stroke="#224E86" stroke-width="3"/>
+    <path d="M804 96H864" stroke="#224E86" stroke-width="3"/>
+    <path d="M804 110H882" stroke="#224E86" stroke-width="3"/>
+    <text x="804" y="138" class="micro">pipeline: retrieve - reason - review</text>
+  </g>
+</svg>
