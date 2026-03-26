@@ -47,16 +47,18 @@ I'm learning how to design reliable agent workflows and build useful AI systems 
 
 ## 📊 GitHub Stats
 
+<table align="center">
+<tr>
+<td>
+<img width="400" src="https://api-github-readme-stats.null-qwerty.top/api?username=ADChahaha&show_icons=true&hide_border=true&bg_color=00000000&title_color=0E6CFF&text_color=6B9FB4&icon_color=3D8BFF&ring_color=0E6CFF&rank_icon=default&custom_title=ADChahaha%27s%20GitHub%20Stats" alt="GitHub Stats" />
+</td>
+<td>
+<img width="400" src="https://api-github-readme-stats.null-qwerty.top/api/top-langs/?username=ADChahaha&layout=compact&hide_border=true&bg_color=00000000&title_color=0E6CFF&text_color=6B9FB4&custom_title=Top%20Languages" alt="Top Languages" />
+</td>
+</tr>
+</table>
 <p align="center">
-<img width=400 src="https://github-readme-stats.vercel.app/api?username=ADChahaha&show_icons=true&hide_border=true&theme=transparent" />
-<a href="https://git.io/streak-stats"><img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=ADChahaha&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADChahaha/ADChahaha/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADChahaha/ADChahaha/output/github-contribution-grid-snake.svg" />
-    <img width="800" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ADChahaha/ADChahaha/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img width="800" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ADChahaha/ADChahaha/output/github-contribution-grid-snake.svg" />
 </p>
 
 ## 📫 How to reach me
